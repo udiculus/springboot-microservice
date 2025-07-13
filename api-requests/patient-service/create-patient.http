@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Nisa Rizkiana",
-  "email": "nisarizkiana070@gmail.com",
+  "name": "Bayezid Rasyid Ibrahim",
+  "email": "bayezid@gmail.com",
   "address": "Green Harmoni, Bandung",
-  "dateOfBirth": "1997-03-20",
+  "dateOfBirth": "2025-03-01",
   "registeredDate": "2025-07-11"
 }
 ###

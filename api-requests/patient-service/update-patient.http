@@ -1,10 +1,10 @@
 ### PUT request to update patient
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+PUT http://localhost:4000/patients/20746812-0216-4ed2-9b84-db510641b27e
 Content-Type: application/json
 
 {
-  "name": "John Foe",
-  "email": "test1@gmail.com",
+  "name": "Bayezid Rasyid",
+  "email": "bayezid@gmail.com",
   "address": "Bandung",
   "dateOfBirth": "1992-07-25"
 }
